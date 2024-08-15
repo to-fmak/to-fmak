@@ -40,5 +40,5 @@
 
 ---
 
-### 📝 Tech Blog(Japanese)
+### 🗒️ Tech Blog(Japanese)
 - [https://qiita.com/to-fmak](https://qiita.com/to-fmak)
