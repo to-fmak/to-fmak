@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Wenzhang!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-English%20|%20Japanese%20|%20Chinese-blue?style=flat-square&logo=github" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Language-Chinese%20|%20Japanese%20|%20English-blue?style=flat-square&logo=github" alt="Languages"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 Cloud Platform Engineer & Full Stack Engineer
+- 👨‍💻 Cloud Platform Engineer & Full Stack Developer
 - 🌆 Based in Tokyo, Japan
 
 ### 📝 Experience
