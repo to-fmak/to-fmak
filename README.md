@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Wenzhang!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Chinese%20|%20Japanese%20|%20English-blue?style=flat-square&logo=github" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Language-Chinese%20|%20English%20|%20Japanese-blue?style=flat-square&logo=github" alt="Languages"/>
 </p>
 
 ---
@@ -42,3 +42,18 @@
 
 ### 🗒️ Tech Blog(Japanese)
 - [https://qiita.com/to-fmak](https://qiita.com/to-fmak)
+
+---
+
+### Certificates
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Developer - Associate
+- AWS Certified DevOps Engineer - Professional
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Security - Specialty
+- AWS Certified Database - Specialty
+- LPIC-1
+- LPIC-2
+- LPIC-304 Virtualization & High Availability
