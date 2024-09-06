@@ -12,13 +12,14 @@
 
 ### 📝 Experience
 - Experience in designing and building infrastructure environments using AWS (servers, networks, databases, log & resource monitoring, automation, etc.)
-- Experience with container orchestration services (Amazon ECS, Tencent Kubernetes Engine) and CI/CD pipelines (AWS Code series, Jenkins)
+- Experience with container orchestration services (Amazon ECS, Tencent Kubernetes Engine) and CI/CD pipelines (AWS Code series, Jenkins, Github Actions)
 - Experience in creating automation scripts using Python and Shell scripting
 - Experience with IaC tools and configuration management tools such as AWS CloudFormation, Terraform, and Ansible
 - Experience in operating and troubleshooting systems built on multi-cloud platforms (AWS, Tencent Cloud)
 - Experience collaborating with overseas teams using English and Chinese
 - Experience in proposing and implementing automation to improve design and work efficiency
 - Experience in developing serverless applications using AWS Lambda, DynamoDB, and IoT Core
+- Experience in developing APIs using GCP
 - Experience in producing outputs for external audiences and writing technical blogs
 
 
