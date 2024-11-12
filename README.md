@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 👨‍💻 Cloud Platform Engineer & Full Stack Developer
-- 🌆 Based in Tokyo, Japan
+- 🌆 Based in Japan
 
 ### 📝 Experience
 - Experience in designing and building infrastructure environments using AWS (servers, networks, databases, log & resource monitoring, automation, etc.)
