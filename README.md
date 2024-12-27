@@ -11,17 +11,16 @@
 - 🌆 Based in Japan
 
 ### 📝 Experience
-- Experience in designing and building infrastructure environments using AWS (servers, networks, databases, log & resource monitoring, automation, etc.)
-- Experience with container orchestration services (Amazon ECS, Tencent Kubernetes Engine) and CI/CD pipelines (AWS Code series, Jenkins, Github Actions)
-- Experience in creating automation scripts using Python and Shell scripting
-- Experience with IaC tools and configuration management tools such as AWS CloudFormation, Terraform, and Ansible
-- Experience in operating and troubleshooting systems built on multi-cloud platforms (AWS, Tencent Cloud)
-- Experience collaborating with overseas teams using English and Chinese
-- Experience in proposing and implementing automation to improve design and work efficiency
-- Experience in developing serverless applications using AWS Lambda, DynamoDB, and IoT Core
-- Experience in developing APIs using GCP
-- Experience in producing outputs for external audiences and writing technical blogs
-
+- Skilled in designing and building infrastructure environments on AWS, including servers, networks, databases, logging, resource monitoring, and automation.
+- Proficient in container orchestration services like Amazon ECS and Tencent Kubernetes Engine, as well as CI/CD pipelines using AWS CodePipeline, Jenkins, and GitHub Actions.
+- Experienced in creating automation scripts with Python and Shell.  
+- Extensive experience with Infrastructure as Code (IaC) tools, particularly in Terraform, including designing reusable modules, refactoring codebases, establishing development best practices, and creating strategies for version upgrades. Also proficient with AWS CloudFormation and Ansible for infrastructure automation and configuration management.
+- Hands-on experience operating and troubleshooting systems across multi-cloud platforms, including AWS and Tencent Cloud.
+- Skilled in API development on Google Cloud Platform (GCP), leveraging services like Cloud Functions, API Gateway, Cloud Storage, and Vertex AI to build scalable, efficient, and intelligent solutions.
+- Experienced in developing serverless applications with AWS Lambda, DynamoDB, and IoT Core.
+- Strong ability to collaborate with international teams, communicating effectively in both English and Chinese. 
+- Proven track record in proposing and implementing automation solutions to improve design processes and work efficiency.
+- Capable of creating technical content for external audiences, including writing detailed technical blogs.
 
 ---
 
