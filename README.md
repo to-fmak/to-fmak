@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 Cloud Platform Engineer & Full Stack Developer
+- 👨‍💻 Cloud DevOps Engineer & Full Stack Developer
 - 🌆 Based in Japan
 
 ### 📝 Experience
