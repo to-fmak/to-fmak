@@ -11,15 +11,24 @@
 - 🌆 Based in Japan
 
 ### 📝 Experience
+
+**Cloud Infrastructure & DevOps**
 - Skilled in designing and building infrastructure environments on AWS, including servers, networks, databases, logging, resource monitoring, and automation.
 - Proficient in container orchestration services like Amazon ECS and Tencent Kubernetes Engine, as well as CI/CD pipelines using AWS CodePipeline, Jenkins, and GitHub Actions.
-- Experienced in creating automation scripts with Python and Shell.  
 - Extensive experience with Infrastructure as Code (IaC) tools, particularly in Terraform, including designing reusable modules, refactoring codebases, establishing development best practices, and creating strategies for version upgrades. Also proficient with AWS CloudFormation and Ansible for infrastructure automation and configuration management.
 - Hands-on experience operating and troubleshooting systems across multi-cloud platforms, including AWS and Tencent Cloud.
+
+**Backend & API Development**
+- Experienced in developing RESTful APIs using Ruby on Rails, including designing API architectures and integrating with various backend services and databases.
 - Skilled in API development on Google Cloud Platform (GCP), leveraging services like Cloud Functions, API Gateway, Cloud Storage, and Vertex AI to build scalable, efficient, and intelligent solutions.
 - Experienced in developing serverless applications with AWS Lambda, DynamoDB, and IoT Core.
-- Strong ability to collaborate with international teams, communicating effectively in both English and Chinese. 
+
+**Automation & Scripting**
+- Experienced in creating automation scripts with Python and Shell.
 - Proven track record in proposing and implementing automation solutions to improve design processes and work efficiency.
+
+**Collaboration & Communication**
+- Strong ability to collaborate with international teams, communicating effectively in both English and Chinese.
 - Capable of creating technical content for external audiences, including writing detailed technical blogs.
 
 ---
@@ -42,6 +51,7 @@
 
 ### 🗒️ Tech Blog(Japanese)
 - [https://qiita.com/to-fmak](https://qiita.com/to-fmak)
+- [https://zenn.dev/to_fmak](https://zenn.dev/to_fmak)
 
 ---
 
