@@ -16,7 +16,8 @@
 - Skilled in designing and building infrastructure environments on AWS, including servers, networks, databases, logging, resource monitoring, and automation.
 - Proficient in container orchestration services like Amazon ECS and Tencent Kubernetes Engine, as well as CI/CD pipelines using AWS CodePipeline, Jenkins, and GitHub Actions.
 - Extensive experience with Infrastructure as Code (IaC) tools, particularly in Terraform, including designing reusable modules, refactoring codebases, establishing development best practices, and creating strategies for version upgrades. Also proficient with AWS CloudFormation and Ansible for infrastructure automation and configuration management.
-- Hands-on experience operating and troubleshooting systems across multi-cloud platforms, including AWS and Tencent Cloud.
+- Hands-on experience operating and troubleshooting systems across multi-cloud platforms, including AWS, Google Cloud, and Tencent Cloud.
+- Experienced in developing data analytics infrastructure using BigQuery and Dataform for efficient data processing and transformation workflows.
 
 **Backend & API Development**
 - Experienced in developing RESTful APIs using Ruby on Rails, including designing API architectures and integrating with various backend services and databases.
