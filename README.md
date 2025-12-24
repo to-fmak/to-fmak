@@ -21,7 +21,7 @@
 
 **Backend & API Development**
 - Experienced in developing RESTful APIs using Ruby on Rails, including designing API architectures and integrating with various backend services and databases.
-- Skilled in API development on Google Cloud Platform (GCP), leveraging services like Cloud Functions, API Gateway, Cloud Storage, and Vertex AI to build scalable, efficient, and intelligent solutions.
+- Skilled in API development on Google Cloud, leveraging services like Cloud Functions, API Gateway, Cloud Storage, and Vertex AI to build scalable, efficient, and intelligent solutions.
 - Experienced in developing serverless applications with AWS Lambda, DynamoDB, and IoT Core.
 
 **Automation & Scripting**
