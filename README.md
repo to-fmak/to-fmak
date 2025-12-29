@@ -37,7 +37,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <!-- Automatically generated top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=to-fmak&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=to-fmak&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
